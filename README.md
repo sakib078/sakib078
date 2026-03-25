@@ -96,8 +96,5 @@ I’m a **Software Engineering student at Seneca Polytechnic** who enjoys buildi
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakib078&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
-
   ### 🚀 "Code is poetry, and every commit tells a story"
 </div>

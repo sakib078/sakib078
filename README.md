@@ -83,9 +83,6 @@ I’m a **Software Engineering student at Seneca Polytechnic** who enjoys buildi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakib078&theme=tokyonight&hide_border=true"/>
 </p>
 
-### 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/sakib078" alt="Contribution Calendar" width="100%"/>
-
 ## 🎓 Certifications & Blog
 *🚀 Coming soon!*
 

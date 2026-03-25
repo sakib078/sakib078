@@ -83,13 +83,14 @@ I’m a **Software Engineering student at Seneca Polytechnic** who enjoys buildi
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Let's Connect & Collaborate
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakib078/)
+![Email](https://img.shields.io/badge/Email-sakibmansuri044%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 [![GitHub followers](https://img.shields.io/github/followers/sakib078?style=social)](https://github.com/sakib078)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakibmansuri044@gmail.com)
 
 </div>
 

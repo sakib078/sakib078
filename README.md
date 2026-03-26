@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Sakib Mansuri
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Creative+Explorer;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Creative+Explorer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ---
 
@@ -21,11 +21,11 @@ I’m a **Software Engineering student at Seneca Polytechnic** who enjoys buildi
 
 ## 🎯 Current Focus
 
-* 🔭 **Working on**: Building practical RAG and AI systems, and shipping polished frontend experiences in React/TypeScript.
-* 🌱 **Learning**: Strengthening my foundations in Data Science and ML.
+* 🔭 **Working on**: Building practical RAG and AI systems, and shipping polished full-stack experiences in React/TypeScript with NodeJS/FastAPI.
+* 🌱 **Learning**: Strengthening my foundations in Data processing and AI(ML, DL).
 * 👯 **Looking to collaborate on**: Open Source projects involving AI/ML, RAG pipelines, or accessible web architectures.
-* 💬 **Ask me about**: Full-stack web apps (React, Node.js, FastAPI), Semantic Search, and LLM workflows.
-* ⚡ **Fun fact**: I love to unwind by exploring nature trails and trying out new coffee brewing methods!
+* 💬 **Ask me about**: Full-stack web apps (React, Node.js, FastAPI), Agentic systems, and LLM workflows.
+* ⚡ **Fun fact**: I love to unwind by reading books , going out for a run and trying different things!
 
 ---
 
@@ -43,6 +43,10 @@ I’m a **Software Engineering student at Seneca Polytechnic** who enjoys buildi
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 
@@ -50,6 +54,7 @@ I’m a **Software Engineering student at Seneca Polytechnic** who enjoys buildi
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---

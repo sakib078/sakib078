@@ -1,3 +1,10 @@
+<div align="right">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakib078/)
+![Email](https://img.shields.io/badge/Email-sakibmansuri044%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+</div>
+
 ## Hi there! 👋 I'm Sakib Mansuri
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Creative+Explorer;Always+Learning+New+Things)](https://git.io/typing-svg)
@@ -10,23 +17,13 @@ I’m a **Software Engineering student at Seneca Polytechnic** who enjoys buildi
 
 ---
 
-## 🚀 GitHub Overview
+## 🎯 Focus
 
-<div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=sakib078&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib078&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
-
-## 🎯 Current Focus
-
-* 🔭 **Working on**: Building practical RAG and AI systems, and shipping polished full-stack experiences in React/TypeScript with NodeJS/FastAPI.
-* 🌱 **Learning**: Strengthening my foundations in Data processing and AI(ML, DL).
-* 👯 **Looking to collaborate on**: Open Source projects involving AI/ML, RAG pipelines, or accessible web architectures.
-* 💬 **Ask me about**: Full-stack web apps (React, Node.js, FastAPI), Agentic systems, and LLM workflows.
-* ⚡ **Fun fact**: I love to unwind by reading books , going out for a run and trying different things!
-
+* 🔭 **Building**: RAG systems & Full-stack apps (React/FastAPI)
+* 🌱 **Learning**: Data processing & AI/ML (DL)
+* 👯 **Open to**: AI/ML Open Source & RAG pipelines or web architectures
+* 💬 **Ask me**: Agentic systems, LLMs, & Web dev
+* ⚡ **Fun fact**: I enjoy books, running, and new adventures
 ---
 
 ## 🛠️ Technology Arsenal
@@ -61,27 +58,16 @@ I’m a **Software Engineering student at Seneca Polytechnic** who enjoys buildi
 
 ## 🏗️ Featured Projects
 
-### 🌟 [Embedded-Debug-Logging](https://github.com/sakib078/Embedded-Debug-Logging)
-*Revolutionizing embedded systems debugging with a lightweight logging system featuring real-time monitoring and dynamic filtering.*
-**Tech Stack:** C++ • Linux • GCC
-
 ### 🛰️ [AstrOracle – NASA Space Apps 2025](https://github.com/sakib078/AstrOracle)
 *3D meteor impact simulator using real NASA datasets to visualize impact zones and evacuation strategies.*
 **Tech Stack:** React.js • TypeScript • Three.js
 
-### 🚗 [Parking System Toronto](https://github.com/sakib078/Parking-System-Toronto)
+### [CNN-RNN-Multi-label-Image-Classification](https://github.com/sakib078/Parking-System-Toronto)
 *Full-stack parking locator with real-time maps and Google Maps API integration.*
-**Tech Stack:** React • Node.js • Tailwind CSS • Google Maps API
+**Tech Stack:**  scikit-learn • PyTorch • NumPy • Pandas 
+**Topics:** Deep learning • computer vision • NLP
 
 ---
-
-### 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakib078&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-
-### 🔥 Streak Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakib078&theme=tokyonight&hide_border=true"/>
-</p>
 
 ## 🎓 Certifications & Blog
 *🚀 Coming soon!*
@@ -90,16 +76,4 @@ I’m a **Software Engineering student at Seneca Polytechnic** who enjoys buildi
 
 ## 🌐 Let's Connect & Collaborate
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakib078/)
-![Email](https://img.shields.io/badge/Email-sakibmansuri044%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-[![GitHub followers](https://img.shields.io/github/followers/sakib078?style=social)](https://github.com/sakib078)
-
-</div>
-
----
-
-  ### 🚀 "Code is poetry, and every commit tells a story"
-</div>

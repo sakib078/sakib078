@@ -57,7 +57,7 @@
 
 ## 🏗️ Featured Projects
 
-### 🛰️ [AstrOracle – NASA Space Apps 2025]([https://github.com/sakib078/AstrOracle](https://github.com/BlackFuffey/nasa-hackathon-2025))
+### 🛰️ [AstrOracle – NASA Space Apps 2025]([https://github.com/sakib078/AstrOracle](https://github.com/BlackFuffey/nasa-hackathon-2025)
 *3D meteor impact simulator using real NASA datasets to visualize impact zones and evacuation strategies.*
 **Tech Stack:** React.js • TypeScript • Three.js
 

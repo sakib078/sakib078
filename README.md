@@ -13,17 +13,16 @@
 
 ## 👨‍💻 Who Am I?
 
-I’m a **Software Engineering student at Seneca Polytechnic** who enjoys building full-stack products and AI-powered systems. I enjoy taking ideas from early prototype to production-ready implementation, with a focus on clean UX, reliable APIs, and data‑driven features. Recently, I’ve been working on **Retrieval‑Augmented Generation (RAG) pipelines**, full‑stack web apps, and focusing on building Gen-AI applications.
+🎓 **Software Engineering @ Seneca Polytechnic** building full-stack products and AI-powered systems. I enjoy working on new Ideas, Turning prototypes into production-ready products with clean UX and reliable APIs. Currently building RAG pipelines, full-stack web apps, and Gen-AI systems.
 
----
+### 🎯 Focus
 
-## 🎯 Focus
-
-* 🔭 **Building**: RAG systems & Full-stack apps (React/FastAPI)
-* 🌱 **Learning**: Data processing & AI/ML (DL)
-* 👯 **Open to**: AI/ML Open Source & RAG pipelines or web architectures
+* 🔭 **Building**: RAG systems , Full-stack apps
+* 🌱 **Learning**: Data processing , AI/ML (DL)
+* 👯 **Open to**: AI/ML Open Source , web architectures
 * 💬 **Ask me**: Agentic systems, LLMs, & Web dev
 * ⚡ **Fun fact**: I enjoy books, running, and new adventures
+
 ---
 
 ## 🛠️ Technology Arsenal
@@ -62,18 +61,8 @@ I’m a **Software Engineering student at Seneca Polytechnic** who enjoys buildi
 *3D meteor impact simulator using real NASA datasets to visualize impact zones and evacuation strategies.*
 **Tech Stack:** React.js • TypeScript • Three.js
 
-### [CNN-RNN-Multi-label-Image-Classification](https://github.com/sakib078/Parking-System-Toronto)
-*Full-stack parking locator with real-time maps and Google Maps API integration.*
+### [CNN-RNN-Multi-label-Image-Classification](https://github.com/sakib078/CNN-RNN-Multi-label-Image-Classification)
+*Developed an image captioning approach combining visual pattern recognition and natural language generation to
+convert images into descriptive text.*
 **Tech Stack:**  scikit-learn • PyTorch • NumPy • Pandas 
 **Topics:** Deep learning • computer vision • NLP
-
----
-
-## 🎓 Certifications & Blog
-*🚀 Coming soon!*
-
----
-
-## 🌐 Let's Connect & Collaborate
-
-

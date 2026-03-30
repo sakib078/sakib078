@@ -1,7 +1,7 @@
 <div align="right">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakib078/)
-![Email](https://img.shields.io/badge/Email-sakibmansuri044%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakib078/)
+![Email](https://img.shields.io/badge/Email-sakibmansuri044%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
 
 </div>
 

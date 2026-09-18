@@ -75,10 +75,10 @@ I build full-stack products and applied AI systems, and I care more about whethe
 
 ## 🏗️ Recent Projects
 
-### 🔍 [Agentic Insurance RAG](https://github.com/sakib078/REPO-NAME) &nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+### 🔍 [Agentic Insurance RAG](https://github.com/sakib078/InsuranceRAG) &nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 *Coverage-aware retrieval agent over Canadian insurance policy documents. Hybrid BM25 + dense retrieval, cross-encoder reranking, and an eval harness measuring recall@k and MRR against a baseline.* &nbsp;·&nbsp; *in progress*
 
-### 📬 [LangGraph Mail Sorting Agent](https://github.com/sakib078/REPO-NAME) &nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=flat-square&logo=auth0&logoColor=white)
+### 📬 [LangGraph Mail Sorting Agent](https://github.com/sakib078/AI-Agents/tree/main/Langgraph/Mail_sorting_agent) &nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=flat-square&logo=auth0&logoColor=white)
 
 *Agentic email triage with OAuth tool-calling and a draft-only safety model — the agent never sends without human approval.*

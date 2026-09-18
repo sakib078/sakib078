@@ -82,7 +82,3 @@ I build full-stack products and applied AI systems, and I care more about whethe
 ### 📬 [LangGraph Mail Sorting Agent](https://github.com/sakib078/REPO-NAME) &nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=flat-square&logo=auth0&logoColor=white)
 
 *Agentic email triage with OAuth tool-calling and a draft-only safety model — the agent never sends without human approval.*
-
-### 🧬 [GenDetect](https://github.com/sakib078/REPO-NAME) &nbsp;![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Transformers-FFD21E?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-*Fine-tuned DistilBERT and RoBERTa for AI-text detection, benchmarked against a classical ML baseline. Includes a documented generalization failure, because the honest result is the more useful one.*

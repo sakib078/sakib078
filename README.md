@@ -1,7 +1,8 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=sakib078&style=flat&color=003FEF&label=Profile+Views" alt="Profile Views" />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakib078/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sakib--m.me-1B2A41?style=flat&logo=googlechrome&logoColor=white)](https://sakib-m.me)
 [![Email](https://img.shields.io/badge/Email-sakibmansuri044%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sakibmansuri044@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=sakib078&style=flat&color=003FEF&label=Profile+Views)](https://github.com/sakib078)
 
 ## Hi there! 👋 I'm Sakib Mansuri
 
@@ -66,29 +67,22 @@ I build full-stack products and applied AI systems, and I care more about whethe
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-
-<!-- Paste this back in during ship week, once the Dockerfile, Actions workflow and AWS deploy are live:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
--->
 
 ---
 
-## 🏗️ Featured Projects
+## 🏗️ Recent Projects
 
-### 🔍 [Agentic Insurance RAG](https://github.com/sakib078/REPO-NAME) &nbsp;&nbsp;·&nbsp;&nbsp; `Python` `FastAPI` `LangGraph` `ragas` `pytest`
+### 🔍 [Agentic Insurance RAG](https://github.com/sakib078/REPO-NAME) &nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 *Coverage-aware retrieval agent over Canadian insurance policy documents. Hybrid BM25 + dense retrieval, cross-encoder reranking, and an eval harness measuring recall@k and MRR against a baseline.* &nbsp;·&nbsp; *in progress*
 
-### 📬 [LangGraph Mail Sorting Agent](https://github.com/sakib078/REPO-NAME) &nbsp;&nbsp;·&nbsp;&nbsp; `Python` `LangGraph` `OAuth`
+### 📬 [LangGraph Mail Sorting Agent](https://github.com/sakib078/REPO-NAME) &nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=flat-square&logo=auth0&logoColor=white)
 
 *Agentic email triage with OAuth tool-calling and a draft-only safety model — the agent never sends without human approval.*
 
-### 🧬 [GenDetect](https://github.com/sakib078/REPO-NAME) &nbsp;&nbsp;·&nbsp;&nbsp; `PyTorch` `Transformers` `scikit-learn`
+### 🧬 [GenDetect](https://github.com/sakib078/REPO-NAME) &nbsp;![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Transformers-FFD21E?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 *Fine-tuned DistilBERT and RoBERTa for AI-text detection, benchmarked against a classical ML baseline. Includes a documented generalization failure, because the honest result is the more useful one.*
-
----
-
-*More work pinned below ⬇️*
